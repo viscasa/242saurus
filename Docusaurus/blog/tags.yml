@@ -17,3 +17,11 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+POPQUIZ:
+  label: POPQUIZ
+  permalink: /popquiz
+
+WEEK07:
+  label: WEEK07
+  permalink: /week-07
