@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://viscasa.github.io/242saurus/blog/</id>
     <title>242saurus Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-10-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://viscasa.github.io/242saurus/blog/"/>
     <subtitle>242saurus Blog</subtitle>
     <icon>https://viscasa.github.io/242saurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pop Quiz]]></title>
+        <id>https://viscasa.github.io/242saurus/blog/POP-QUIZ/</id>
+        <link href="https://viscasa.github.io/242saurus/blog/POP-QUIZ/"/>
+        <updated>2024-10-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello!!!]]></summary>
+        <content type="html"><![CDATA[<p>Hello!!!</p>
+<p>-- A.A. Elfandra, D.N. Rahadian, and E. Christian.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>]]></content>
+        <author>
+            <name>Alwie Attar Elfandra</name>
+            <uri>https://github.com/viscasa</uri>
+        </author>
+        <author>
+            <name>Daffa Naufal Rahadian</name>
+            <uri>https://github.com/scarf-y</uri>
+        </author>
+        <author>
+            <name>Edmond Christian</name>
+            <uri>https://github.com/EdPootis</uri>
+        </author>
+        <category label="POPQUIZ" term="POPQUIZ"/>
+        <category label="WEEK07" term="WEEK07"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://viscasa.github.io/242saurus/blog/welcome/</id>
